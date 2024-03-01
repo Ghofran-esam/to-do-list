@@ -1,0 +1,32 @@
+
+.serchok{
+  
+    text-decoration: line-through;
+  background-color: pink;
+  width: 70%;
+
+}
+ul li{
+    list-style-type: none;
+width: 100%;
+    margin: 5px;
+}
+.list{
+    background-color: white;
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 293px;
+    margin: auto;
+    gap: 15px;
+    
+}
+ul{
+    display: flex;
+    gap: 4px;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-left: 10px;
+}
